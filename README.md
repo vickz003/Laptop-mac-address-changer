@@ -1,11 +1,11 @@
 # Laptop-mac-address-canger
 
-$ sudo su
+ sudo su
 
-# apt-get update && apt-get upgrade
+ apt-get update && apt-get upgrade
 
-# cd Downloads/
+ cd Downloads/
 
-# python mac_changer.py -i eth0 -m xx:xx:xx:xx:xx:xx 
+python mac_changer.py -i eth0 -m xx:xx:xx:xx:xx:xx 
 
 # Enter
